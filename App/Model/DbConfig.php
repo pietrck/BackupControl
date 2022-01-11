@@ -8,7 +8,7 @@ namespace App\Model;
 class DbConfig
 {
 	public $host = "localhost";
-	public $dbname = "BackupControl";
+	public $dbname = "bcontrol";
 	public $user = "root";
 	public $password = "";
 }
